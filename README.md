@@ -1,8 +1,6 @@
 <h1 align="center">Hey :) I'm Felipe Pereira</h1>
 <h3 align="center">[UNDER CONSTRUCTION :) ]- A curious software engineer from Brazil living in Portugal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipepereira2697" alt="felipepereira2697" /></a> </p>
-
 - 🔭 I’m currently working on **Golang and Javascript**
 
 - 🌱 I’m currently learning **Golang, Javascript, Java and Spring Boot**
