@@ -1,7 +1,7 @@
 <h1 align="center">Hey :) I'm Felipe Pereira</h1>
 <h3 align="center">[UNDER CONSTRUCTION :) ]- A curious software engineer from Brazil living in Portugal</h3>
 
-- 🔭 I’m currently working on **Golang and Javascript**
+- 🔭 I’m currently working on **Golang, Javascript and Salesforce**
 
 - 🌱 I’m currently learning **Golang, Javascript, Java and Spring Boot**
 
