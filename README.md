@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Golang, Javascript and Salesforce**
 
-- 🌱 I’m currently learning **Golang, Javascript, Java and Spring Boot**
+- 🌱 I’m currently learning **Golang, Javascript, Java, Spring Boot and Salesforce**
 
 - I’m looking to collaborate on **Golang, Javascript and Java**
 
