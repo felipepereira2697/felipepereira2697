@@ -1,5 +1,5 @@
 <h1 align="center">Hey :) I'm Felipe Pereira</h1>
-<h3 align="center">[UNDER CONSTRUCTION :) ]- A brazilian software engineer living in Portugal</h3>
+<h3 align="center">[UNDER CONSTRUCTION ]- A brazilian software engineer living in Portugal</h3>
 
 - 🔭 I’m currently working on **Golang, Javascript and Salesforce**
 
