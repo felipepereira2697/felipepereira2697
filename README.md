@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Golang, Javascript and Salesforce**
 
-- 🌱 I’m currently learning **Golang, Javascript, Salesforce and Kotlin**
+- 🌱 I’m currently learning **Golang, Javascript, Salesforce, Kotlin and Java**
 
-- I’m looking to collaborate on **Golang, Javascript and Kotlin**
+- I’m looking to collaborate on **Golang, Javascript, Kotlin and Java**
 
 - 👨‍💻 All of my projects are available at [github.com/felipepereira2697](github.com/felipepereira2697)
 
