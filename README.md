@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, Javascript and Java**
 
-- I’m looking to collaborate on **Golang, Javascript, Kotlin and Java**
+- I’m looking to collaborate on **Golang, Javascript, Java**
 
 - 👨‍💻 All of my projects are available at [github.com/felipepereira2697](github.com/felipepereira2697)
 
