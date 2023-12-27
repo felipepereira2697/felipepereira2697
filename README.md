@@ -1,8 +1,6 @@
 <h1 align="center">Hey :) I'm Felipe Pereira</h1>
 <h3 align="center">[UNDER CONSTRUCTION ]- Working as software engineer </h3>
 
-- 🔭 I’m currently working on **Golang, Javascript and Salesforce**
-
 - 🌱 I’m currently learning **Golang, Javascript and Java**
 
 - I’m looking to collaborate on **Golang, Javascript, Java**
