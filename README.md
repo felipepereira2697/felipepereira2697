@@ -1,9 +1,9 @@
 <h1 align="center">Hey :) I'm Felipe Pereira</h1>
 <h3 align="center">[UNDER CONSTRUCTION ]- Working as software engineer </h3>
 
-- 🌱 I’m currently learning **Golang, Javascript and Java**
+- 🌱 I’m currently learning **Java, Javascript and Golang**
 
-- I’m looking to collaborate on **Golang, Javascript, Java**
+- I’m looking to collaborate on **Java, Javascript and Golang**
 
 - 👨‍💻 All of my projects are available at [github.com/felipepereira2697](github.com/felipepereira2697)
 
