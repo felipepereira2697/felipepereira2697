@@ -1,7 +1,7 @@
 <h1 align="center">Hey :) I'm Felipe Pereira</h1>
 <h3 align="center">[UNDER CONSTRUCTION ]- Working as software engineer </h3>
 
-- 🌱 I’m currently learning **Salesforce, Java, Javascript and Golang**
+- 🌱 I’m currently learning **Salesforce, Java, Javascript and Go**
 
 - I’m looking to collaborate on **Salesforce, Java and Javascript**
 
