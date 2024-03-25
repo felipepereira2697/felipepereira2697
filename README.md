@@ -5,7 +5,7 @@
 
 - I’m looking to collaborate on **Salesforce, Java and Javascript**
 
-- 👨‍💻 All of my projects are available at [github.com/felipepereira2697](https://github.com/felipepereira2697)
+- 👨‍💻 All of my projects are available here [github.com/felipepereira2697](https://github.com/felipepereira2697)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/felipe-pereira/](https://www.linkedin.com/in/felipe-pereira/)
 
