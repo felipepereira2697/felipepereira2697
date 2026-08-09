@@ -1,9 +1,9 @@
 <h1 align="center">Hey! I'm Felipe Pereira</h1>
 <h3 align="center">Working as a software engineer :) </h3>
 
-- 🌱 I’m currently learning **Salesforce, Java and Javascript**
+- 🌱 I’m currently learning **Salesforce and Javascript**
 
-- I’m looking to collaborate on **Salesforce, Java and Javascript**
+- I’m looking to collaborate on **Salesforce and Javascript**
 
 - 👨‍💻 All of my projects are available here [github.com/felipepereira2697](https://github.com/felipepereira2697)
 
